@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "Passear no parque",
+    "status": "cancelada",
+    "createdAt": "2025-09-30T12:45:43.427Z"
+  },
+  {
+    "name": "Estudar programação",
+    "status": "concluida",
+    "createdAt": "2025-09-30T12:45:32.459Z"
+  },
+  {
+    "name": "Passear no shopping",
+    "status": "em andamento",
+    "createdAt": "2025-09-30T12:47:03.153Z"
+  }
+]
